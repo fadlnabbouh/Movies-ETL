@@ -6,6 +6,7 @@ __pycache__/
 #Other files 
 config.py
 ratings.csv
+json_import.ipynb
 
 # C extensions
 *.so
